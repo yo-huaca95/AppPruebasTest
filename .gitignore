@@ -1,1 +1,33 @@
+# Archivos generados por Visual Studio
+.vs/
+*.suo
+*.user
+*.cache
+*.csproj.user
+*.vscode/
 
+# Archivos de compilación
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+*.log
+
+# Paquetes y dependencias
+*.nuget/
+packages/
+project.lock.json
+global.json
+
+# Configuración de usuario
+appsettings.json
+appsettings.Development.json
+
+# Archivos de Git y otros
+.gitignore
+.idea/
+*.bak
+*.tmp
+*.swp
